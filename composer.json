@@ -1,0 +1,16 @@
+{
+    "name": "muron/projects",
+    "description": "Testproject",
+    "autoload": {
+        "psr-4": {
+            "Muron\\Projects\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "muron",
+            "email": "Elliothackme@mail.ru"
+        }
+    ],
+    "require": {}
+}

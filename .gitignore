@@ -1,0 +1,6 @@
+echo "/vendor/
+.env
+node_modules/
+storage/
+*.log
+composer.lock"
